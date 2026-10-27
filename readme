@@ -1,0 +1,12 @@
+A very minimalistic osint report generator. Able to save facts, links and export/import json. Also able to create html report pages.
+Everything else is intuitive. The interface is written in Russian... This tool is only for my use.
+
+Очень минималистичный генератор отчетов на OSINT. Можно сохранять факты, ссылки и экспортировать/импортировать json. 
+Также можно создавать html-страницы отчетов. 
+Всё остальное интуитивно понятно. Этот инструмент был создан для личного пользования.
+
+Run:
+  chmod +x osint_report.py 
+  ./osint_report.py
+  or
+  python osint_report.py
