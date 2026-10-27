@@ -228,13 +228,7 @@ def generate_html() -> str:
     background: var(--accent);
     top: -150px; left: -150px;
   }}
-  body::after {{
-    width: 600px; height: 600px;
-    background: var(--accent2);
-    bottom: -200px; right: -200px;
-    opacity: 0.2;
-  }}
-  .wrap {{
+    .wrap {{
     position: relative;
     z-index: 1;
     max-width: 900px;
